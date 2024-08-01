@@ -1,0 +1,13 @@
+{% extends '_base.html' %}
+
+{% block title %}Colors{% endblock %}
+
+{% block content %}
+<h1>Color</h1>
+
+<span class="color-swatch" style="background-color: {{color.hex}};"></span>
+<p>{{color.name}}</p>
+<p>{{color.hex}}</p>
+
+
+{% endblock content %}

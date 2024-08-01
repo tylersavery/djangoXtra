@@ -1,0 +1,23 @@
+.env
+
+# OSX #
+.DS_Store
+
+# Byte-compiled / optimized / DLL files #
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django #
+*.log
+db.sqlite3
+media
+
+# Virtual environment
+.venv
+
+# docker
+data/
+
+# node
+node_modules/
