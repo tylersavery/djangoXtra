@@ -24,10 +24,8 @@
 * **[Installation](#installation)**
   * [Pip](#pip)
   * [Docker](#docker)
-* [Next Steps](#next-steps)
-* [Contributing](#contributing)
-* [Support](#support)
-* [License](#license)
+  * [Environment](#environment)
+
 
 ----
 
